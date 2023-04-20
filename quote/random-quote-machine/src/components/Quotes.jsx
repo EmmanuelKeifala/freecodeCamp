@@ -53,7 +53,7 @@ function Quotes() {
 					</p>
 				</div>
 				<div className="flex flex-row justify-around mt-5">
-					<a href="twitter.com/intent/tweet" id="tweet-quote">
+					<a href="twitter.com/intent/tweet" target="_top" id="tweet-quote">
 						<FaTwitterSquare size={50} color={color} />
 					</a>
 					<button
